@@ -1,9 +1,0 @@
-# 고정값
-{
-    "op": "init",
-    "encoded_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqhrTedqDeWm5z6VFgQbH1UXi4Jbb9gryGJJL4Cb9FDF+qSPcZD2oVuD9J1+cbpnQEe/sIhstm40sd7BKykbrZK2y5EhGdSGS4KpohQM9VcbiG8+QkuD7BMZ06zSXqv7AVsAAahDM8GfKL3ifoU7fZ6D0qF85avs8JdpJJsZ4Xn2+ci6o21MC2WBmmjJ/5pZakdzjWdFGte4/UjQwXfDzSvsd1cvYEMqo0lgU0K3N3p4ulJ6K6GoNeyqLjv1XOsMM1kG54UcnejEhJk+RcBLpiyq6vjUwoCDHug4iZ1Ckmmq+PQSXV23bxfvb/QUJG4fd368Krwej3lH5E2dQYBXgJwIDAQAB"
-}
-
-# 2번쨰 인증키
-
-https://discord.com/ra/V-3tsmWeB8SK6SsRSGsEXm0GkBKVEvHR5mSvy9t0_nA # QR데이터
